@@ -27,4 +27,4 @@ The plugin it's pretty simple and functional, but any problems feel free to send
 
 **By**: [@marcaum-eth](https://github.com/marcaum-eth) & [@benitopedro13](https://github.com/BenitoPedro13)
 
-![remix icons](public/thumbnail.png)
+![remix icons](public/thumbnail02.png)
