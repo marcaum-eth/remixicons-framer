@@ -25,6 +25,6 @@ For any doubts, check out [Framer plugin docs](https://www.framer.com/developers
 
 The plugin it's pretty simple and functional, but any problems feel free to send a Pull Request or open an Issue to get this even better!
 
-**By**: [@marcaum-eth](https://github.com/marcaum-eth) & [@benitopedro13](https://github.com/BenitoPedro13)
+**By**: [@marcaumdesign](https://github.com/marcaumdesign) & [@benitopedro13](https://github.com/BenitoPedro13)
 
 ![remix icons](public/thumbnail02.png)
