@@ -4,4 +4,4 @@ Insert Remix Icons.
 
 **By**: @marcaum-eth & @benitopedro13
 
-![remix icons](../../assets/thumbnail.png)
+![remix icons](public/thumbnail.png)
