@@ -1,12 +1,12 @@
-# Remix Icons for Framer
+# Remix Icon for Framer
 
 ### Overview
 
-As designer I was felting a necissity of using Remix Icons on our Framer project, and if you are designer probably you were feeling too, so we saw the opportunity to develop a plugin that would solve this problem.
+As designer I was felting a necissity of using Remix Icon on our Framer project, and if you are designer probably you were feeling too, so we saw the opportunity to develop a plugin that would solve this problem.
 
 So we created a very similar plugin to [Phosphor](https://www.framer.com/marketplace/plugins/phosphor/). 
 
-Many thanks to [Benito](https://github.com/BenitoPedro13) that helped me a lot to built it, many thanks to [Hunter](https://github.com/huntercaron) that created for us the Phoshpor icons plugin, many thanks to all the [Remix Icons](https://remixicon.com/) team and many thanks to Copilot too! 🙏🏽🫡
+Many thanks to [Benito](https://github.com/BenitoPedro13) that helped me a lot to built it, many thanks to [Hunter](https://github.com/huntercaron) that created for us the Phoshpor icons plugin, many thanks to all the [Remix Icon](https://remixicon.com/) team and many thanks to Copilot too! 🙏🏽🫡
 
 ### Functionatilies 
 

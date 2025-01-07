@@ -2,7 +2,7 @@ import { Suspense, useCallback, useDeferredValue, useMemo, useState, Context } f
 import "./App.css"
 import { framer, Draggable } from "framer-plugin"
 import Fuse from "fuse.js"
-import * as remixIcons from "@remixicon/react"
+import * as remixIcon from "@remixicon/react"
 import type { RemixiconComponentType as RemixIcon } from "@remixicon/react"
 import tags from "./tags.json"
 import { renderToStaticMarkup } from "react-dom/server"
@@ -43,9 +43,9 @@ const fuseOptions = {
     threshold: 0.3,
 }
 
-const icons: IconInterface[] = Object.keys(remixIcons).map(key => ({
+const icons: IconInterface[] = Object.keys(remixIcon).map(key => ({
     name: key,
-    svg: (remixIcons as any)[key],
+    svg: (remixIcon as any)[key],
 }))
 
 function searchIcons(query: string, tags: any) {
@@ -159,8 +159,8 @@ export function App() {
     }, [searchQuery])
     const iconMap = useMemo(() => {
         const map = new Map<string, any>()
-        Object.keys(remixIcons).forEach(iconName => {
-            map.set(iconName, (remixIcons as any)[iconName])
+        Object.keys(remixIcon).forEach(iconName => {
+            map.set(iconName, (remixIcon as any)[iconName])
         })
         return map
     }, [])
